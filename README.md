@@ -1,7 +1,7 @@
 # Exercise 5
 
 ## Created by
-- Yee
+- Nathan
 
 ## Description
 - Charts with chart.js
